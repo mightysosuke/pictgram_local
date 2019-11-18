@@ -6,6 +6,10 @@ h1, h2 {
   color: #fff;
 }
 
+.text-black {
+  color: #222222;
+}
+
 .btn-white {
   color: #fff;
   border: 1px solid #fff;
@@ -135,5 +139,19 @@ h1, h2 {
       height: 30px;
       margin-left: 20px;
     }
+    .topic-comment {
+      font-size: 18px;
+      padding-top: 5px;
+      padding-right: 20px;
+      padding-left: 20px;
+    }
+    .topic-comment-content {
+      padding: 5px 20px;
+    }
   }
+}
+
+.comment-form {
+  padding-top: 30px;
+  padding-bottom: 40px;
 }
